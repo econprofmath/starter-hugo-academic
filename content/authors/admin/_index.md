@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Robert J. McKeown
+title: Robert J. McKeown, PhD, CFA
 
 # Is this the primary user of the site?
 superuser: true
@@ -11,28 +11,28 @@ role: Assistant Professor, Teaching Stream
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: York University
-  url: https://www.stanford.edu/
+  url: https://profiles.laps.yorku.ca/profiles/mckeow99//
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My teaching interests include principles of economics, finance, and macroeconomics
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Principles of Economics
+- Macroeconomics
+- Finance
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Economics
+    institution: Queen's University
+    year: 2017
+  - course: Masters of Economics
+    institution: Ryerson University
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Bachelor of Commerce
+    institution: Ryerson University
     year: 2008
 
 # Social/Academic Networking
