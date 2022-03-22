@@ -34,9 +34,6 @@ content:
     postcode: 'M3J 1P3'
     country: Canada
     country_code: CAN
-  coordinates:
-    latitude: '43 46' 13.81 N'
-    longitude: '-79 30' 7.83 W'
   #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
