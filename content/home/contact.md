@@ -2,6 +2,7 @@
 # An instance of the Contact widget.
 widget: contact
 
+
 # This file represents a page section.
 headless: true
 
@@ -13,7 +14,7 @@ subtitle:
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: true
+  autolink: false
   
   # Email form provider
   form:
@@ -25,7 +26,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: mckeow99@yorku.ca
+  email: mckeow99 ~ yorku.ca
   #phone: 888 888 88 88
   address:
     street: 4700 Keele St. Vari Hall 1052
