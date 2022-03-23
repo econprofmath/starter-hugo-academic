@@ -49,7 +49,9 @@ social:
  # link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://profiles.laps.yorku.ca/profiles/mckeow99/
+  #https://ideas.repec.org/cgi-bin/htsearch?q=Robert+McKeown
+  
 #-# icon: github
  # icon_pack: fab
   #link: https://github.com/gcushen
@@ -71,8 +73,8 @@ email: ""
 highlight_name: true
 ---
 
-Robert McKeown is an assistant professor, Teaching Stream in the Department of Economics at York University. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Robert McKeown is an assistant professor, Teaching Stream in the Department of Economics at York University. His teaching focus has been on math for economics and the principles of economics. Robert is a CFA Charterholder who uses    
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Scholarship of Teaching and Learning: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
