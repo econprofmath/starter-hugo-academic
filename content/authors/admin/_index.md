@@ -73,8 +73,8 @@ email: ""
 highlight_name: true
 ---
 
-Robert McKeown is an assistant professor, Teaching Stream in the Department of Economics at York University. He is a holder of both a Chartered Financial Analyst<sup>&copy;</sup> designation, an uncommon combination that he leverages to offer a unique perspective on topics in the undergraduate curriculum. Economic history, macroeconomics, and finance are among his favourite topics. 
+Robert McKeown is an assistant professor, Teaching Stream in the Department of Economics at York University. He is a holder of both a Chartered Financial Analyst<sup>&copy;</sup> designation and a PhD in economics which reflects his interest in both theory and application. This relatively uncommon combination gives him a unique perspective on topics in the undergraduate curriculum and on the undergraduate experience as most undergraduates pursue careers outside academia. Among his favourite topics are economic history, macroeconomics, and finance. 
 
-His teaching focus has been on math for economics and the principles of economics.  Scholarship of Teaching and Learning: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Lately, his teaching has been focused on the principles of economics and mathematics for economics. Both of these courses has motivated his scholarship on teaching and learning. Robert McKeown has been studying how ALEKS, a math learning environment with an artificial intelligence, could increase student success for economics majors. In 2021, he became the first Academic Directory of SNACK, a student numeracy assistance centre supporting LA&amp;PS students at York University. He is also an author of the open-education resource: GAMES &mdash; A Gentle Approach to Math, Excel, and Stats, a 24-week open-education resource to introduce math, calculus, and statistics to economics, business, and social science majors.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/RobertJMcKeown.pdf" "newtab" >}}resumé{{< /staticref >}}.
