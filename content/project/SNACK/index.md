@@ -38,7 +38,9 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
----
-SNACK was founded in the Fall of 2021 to provide support to students in the liberal arts and professional courses that involve math, stats, and basic computer programming, and Excel spreadsheets. These are the components of finance, accounting, and economics that students often find most challenging. We offer peer tutoring, workshops Our goal is to help students become experts in the math concepts that they need for success &mdash; from basic and linear algebra, to complex statistics, tricky equations, calculus and more.
 
-Throughout the academic year, we encourage you to speak with our Peer Tutors via Zoom, take advantage of our numeracy resources and attend our math workshops. We're excited to meet you
+---
+
+SNACK was founded in the Fall of 2021 by the Office of the Dean to support liberal arts and professional studies students enrolled in courses that involve math, stats, and computer programming, and Excel &mdash; Click to learn more. These are the components of finance, accounting, and economics that students often find most challenging. We offer peer tutoring, workshops, and resources to achieve our goal of helping students become experts in the math that they need for success &mdash; from basic and linear algebra, to complex statistics, tricky equations, calculus, and more, SNACK is here to help.
+
+<a href="https://www.yorku.ca/laps/snack/"> Visit our website to learn more and meet our team </a>
