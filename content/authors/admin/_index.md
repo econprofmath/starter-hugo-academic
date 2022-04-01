@@ -14,7 +14,7 @@ organizations:
   url: https://profiles.laps.yorku.ca/profiles/mckeow99//
 
 # Short bio (displayed in user profile at end of posts)
-bio: My teaching interests include principles of economics, finance, and macroeconomics
+bio: Economics of Education, Active Learning, Student Support
 
 # Interests to show in About widget
 interests:
@@ -82,7 +82,7 @@ highlight_name: true
 
 Robert McKeown is an assistant professor, Teaching Stream in the Department of Economics at York University. He is a holder of both a Chartered Financial Analyst<sup>&reg;</sup> designation and a PhD in economics which reflects his interest in both theory and application. This relatively uncommon combination gives him a unique perspective on topics in the undergraduate curriculum and on the undergraduate experience as most undergraduates pursue careers outside academia. Among his favourite topics are economic history, macroeconomics, and finance. 
 
-Lately, his teaching has been focused on the principles of economics and mathematics for economics. Both of these courses has motivated his scholarship on teaching and learning. Robert McKeown has been studying how ALEKS, a math learning environment with an artificial intelligence, could increase student success for economics majors. In 2021, he became the first Academic Directory of SNACK, a student numeracy assistance centre supporting LA&amp;PS students at York University. He is also an author of the open-education resource: GAMES &mdash; A Gentle Approach to Math, Excel, and Stats, a 24-week open-education resource to introduce math, calculus, and statistics to economics, business, and social science majors.
+Lately, his teaching has been focused on the principles of economics and mathematics for economics. Both of these courses have motivated his scholarship on teaching and learning. Robert McKeown has been studying how ALEKS, a math learning environment with adaptive questions, could increase student success for economics majors. In 2021, he became the first Academic Directory of SNACK, a student numeracy assistance centre supporting LA&amp;PS students at York University. He is also an author of the open-education resource: GAMES &mdash; A Gentle Approach to Math, Excel, and Stats, a 24-week open-education resource to introduce math, calculus, and statistics to economics, business, and social science majors.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/RobertJMcKeown.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}. 
 
