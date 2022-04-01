@@ -77,7 +77,7 @@ email: ""
 
 # Highlight the author in author lists? (true/false) 
 #resumé
-highlight_name: true
+highlight_name: false
 ---
 
 Robert McKeown is an assistant professor, Teaching Stream in the Department of Economics at York University. He is a holder of both a Chartered Financial Analyst<sup>&reg;</sup> designation and a PhD in economics which reflects his interest in both theory and application. This relatively uncommon combination gives him a unique perspective on topics in the undergraduate curriculum and on the undergraduate experience as most undergraduates pursue careers outside academia. Among his favourite topics are economic history, macroeconomics, and finance. 

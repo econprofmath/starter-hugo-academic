@@ -29,7 +29,7 @@ image:
 
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: uploads/SNACK_INFO.pdf
 url_video: "https://youtu.be/PZnbBHjfjgM"
 
 # Slides (optional).
