@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://ideas.repec.org/p/qed/wpaper/1381.html
 url_code:
 url_dataset:
 url_poster:
