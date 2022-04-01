@@ -1,8 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "McKeown, Robert"
-authors: []
+title: "An overview of the {C}anadian banking system: 1996 to 2015"
+authors: [McKeown, Robert]
+#- admin
 date: 2017-03-26T11:43:13-04:00
 doi: ""
 
@@ -16,8 +17,8 @@ publishDate: 2017-03-26T11:43:13-04:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "McKeown, Robert"
-publication_short: "An overview of the {C}anadian banking system: 1996 to 2015, Queen's Working Paper 1379"
+publication: "Queen's Working Paper 1379"
+publication_short: "Queen's Working Paper 1379"
 
 abstract: ""
 

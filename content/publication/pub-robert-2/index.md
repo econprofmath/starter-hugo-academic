@@ -1,23 +1,26 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Pub Robert 2"
-authors: []
-date: 2022-04-01T11:56:28-04:00
+title: "Where Are The Economies Of Scale In Canadian Banking?"
+authors: [McKeown, Robert]
+
+#- admin
+
+date: 2017-04-01T11:56:28-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-04-01T11:56:28-04:00
+publishDate: 2017-04-01T11:56:28-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Queen's University Working Paper 1380"
+publication_short: "Queen's University Working Paper 1380"
 
 abstract: ""
 
@@ -36,7 +39,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://ideas.repec.org/p/qed/wpaper/1380.html
 url_code:
 url_dataset:
 url_poster:
