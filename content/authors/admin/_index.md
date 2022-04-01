@@ -14,7 +14,7 @@ organizations:
   url: https://profiles.laps.yorku.ca/profiles/mckeow99//
 
 # Short bio (displayed in user profile at end of posts)
-bio: Economics of Education, Active Learning, Student Support
+bio: Academic Director, SNACK 
 
 # Interests to show in About widget
 interests:
