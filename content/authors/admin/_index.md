@@ -69,7 +69,8 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Highlight the author in author lists? (true/false)
+# Highlight the author in author lists? (true/false) 
+#resumé
 highlight_name: true
 ---
 
@@ -77,4 +78,5 @@ Robert McKeown is an assistant professor, Teaching Stream in the Department of E
 
 Lately, his teaching has been focused on the principles of economics and mathematics for economics. Both of these courses has motivated his scholarship on teaching and learning. Robert McKeown has been studying how ALEKS, a math learning environment with an artificial intelligence, could increase student success for economics majors. In 2021, he became the first Academic Directory of SNACK, a student numeracy assistance centre supporting LA&amp;PS students at York University. He is also an author of the open-education resource: GAMES &mdash; A Gentle Approach to Math, Excel, and Stats, a 24-week open-education resource to introduce math, calculus, and statistics to economics, business, and social science majors.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/RobertJMcKeown.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/RobertJMcKeown.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}. 
+
