@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Student Numeracy Assistance Centre (SNACK)"
-summary: ""
+summary: "SNACK was founded in the Fall of 2021 by the Office of the Dean to support students enrolled in the Liberal Arts and Professional Studies (LA&amp;PS) develop their numeracy skills.  Here, students enrolled in courses that involve math, stats, computer programming, and Excel can find helpful resources, skill-building workshops, and one-on-one peer tutoring &mdash; from basic functions and linear algebra, to complex statistics, tricky equations, calculus, and more, SNACK is ready to help. Our knowledgeable peer tutors are available online or in-person five days a week. "
 authors: []
 tags: []
 categories: []
@@ -30,7 +30,7 @@ image:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://youtu.be/PZnbBHjfjgM"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -38,9 +38,14 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+###Students can find peer tutoring, skill-development workshops, and resources to become experts in the skills that they need for success
 
 ---
 
-SNACK was founded in the Fall of 2021 by the Office of the Dean to support liberal arts and professional studies students enrolled in courses that involve math, stats, and computer programming, and Excel &mdash; Click to learn more. These are the components of finance, accounting, and economics that students often find most challenging. We offer peer tutoring, workshops, and resources to achieve our goal of helping students become experts in the math that they need for success &mdash; from basic and linear algebra, to complex statistics, tricky equations, calculus, and more, SNACK is here to help.
+SNACK was founded in the Fall of 2021 by the Office of the Dean to support students enrolled in the Liberal Arts and Professional Studies (LA&amp;PS) develop their numeracy skills.  Here, students enrolled in courses that involve math, stats, computer programming, and Excel can find helpful resources, skill-building workshops, and one-on-one peer tutoring &mdash; from basic functions and linear algebra, to complex statistics, tricky equations, calculus, and more, SNACK is ready to help. 
 
-<a href="https://www.yorku.ca/laps/snack/"> Visit our website to learn more and meet our team </a>
+Our knowledgeable peer tutors are available online or in-person five days a week. 
+
+<a href="https://www.yorku.ca/laps/snack/"> Visit our website to learn more and meet our team of students, staff, and faculty </a>
+
+www.yorku.ca/laps/snack
