@@ -18,10 +18,10 @@ bio: My teaching interests include principles of economics, finance, and macroec
 
 # Interests to show in About widget
 interests:
-- Principles of Economics
-- Macroeconomics
-- Finance
 - Economics Education
+- Finance
+- Macroeconomics
+- Principles of Economics
 
 # Education to show in About widget
 education:
@@ -58,6 +58,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/robert-mckeown-phd-cfa-a2445595/
+
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://github.com/gcushen
+
+#C:\Users\rober\OneDrive - York University\York University\Website
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
