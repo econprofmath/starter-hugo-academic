@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Leveling-Up: an Event for Canadian Science, Technology, Engineering, &amp; Math Faculty"
+title: "Robert McKeown Presented at `Leveling-Up: an Event for Canadian Science, Technology, Engineering, &amp; Math Faculty'"
 subtitle: ""
 summary: ""
 authors: []
