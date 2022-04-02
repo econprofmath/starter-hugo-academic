@@ -2,12 +2,12 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Student Numeracy Assistance Centre (SNACK)"
-summary: "SNACK was founded in the Fall of 2021 by the Office of the Dean to support students enrolled in the Liberal Arts and Professional Studies (LA&amp;PS) develop their numeracy skills.  Here, students enrolled in courses that involve math, stats, computer programming, and Excel can find helpful resources, skill-building workshops, and one-on-one peer tutoring &mdash; from basic functions and linear algebra, to complex statistics, tricky equations, calculus, and more, SNACK is ready to help. Our knowledgeable peer tutors are available online or in-person five days a week. "
+summary: "Robert McKeown is the first Academic Director of SNACK &mdash; the Student Numeracy Assistance Centre. Founded in the Fall of 2021 with financial support from the Office of the Dean, SNACK supports Liberal Arts and Professional Studies (LA&amp;PS) students to develop their numeracy skills. Students can find help with any of their courses that involve math, stats, computer programming, or Excel. Our Centre offers helpful resources, skill-building workshops, and one-on-one peer tutoring &mdash; from basic functions and linear algebra, to complex statistics, tricky equations, calculus, and more, SNACK is ready to help."
 authors: []
 tags: []
 categories: []
 date: 2022-04-01T12:42:41-04:00
-
+#Our knowledgeable peer tutors are available online or in-person five days a week. 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
