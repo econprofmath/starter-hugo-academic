@@ -31,8 +31,14 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   5 = Showcase
+
 design:
   # Choose a view for the listings:
-  view: compact
+  view: Showcase
   columns: '2'
 ---

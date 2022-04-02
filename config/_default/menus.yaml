@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
+  - name: Media
     url: '#posts'
     weight: 40
   - name: Projects
