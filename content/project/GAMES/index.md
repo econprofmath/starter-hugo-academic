@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "GAMES &mdash; A Gentle Approach to Math, Excel, Stats"
+title: "GAMES: A Gentle Approach to Math, Excel, Stats"
 summary: ""
 authors: []
 tags: []
@@ -40,7 +40,7 @@ url_video: https://youtu.be/9ek66_ijSFM
 slides: ""
 ---
 
-Professors Catherine Pfaff, Sumon Majumdar, and Robert McKeown team up to deliver GAMES: A Gentle Approach to Math, Excel, and Stats. These courses are designed for a diverse set of learners and students &mdash; some of whom may lack a strong background in math and stats from High School &mdash; to prepare them for success at university in business, economics, and the social sciences; Each course is divided into 2-3 segments and 12 modules to allow for a customized experience; This project is made possible with funding by the Government of Ontario and through eCampusOntario’s support of the Virtual Learning Strategy; To learn more about the Virtual Learning Strategy visit: https://vls.ecampusontario.ca/.
+Professors Catherine Pfaff, Sumon Majumdar, and Robert McKeown team up to deliver GAMES: A Gentle Approach to Math, Excel, and Stats. These two 12-week courses are designed for a diverse set of learners and students &mdash; some of whom may lack a strong background in math and stats from High School &mdash; to prepare them for success at university in business, economics, and the social sciences; Each course is divided into 2-3 segments and 12 modules to allow for a customized experience; This project is made possible with funding by the Government of Ontario and through eCampusOntario’s support of the Virtual Learning Strategy.
 
 <font size="+2">Who is this course for?</font>
 
