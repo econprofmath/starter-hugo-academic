@@ -23,10 +23,10 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
   # Contact details (edit or remove options as required)
-  email: mckeow99 ~ yorku.ca
+  email: mckeow99@yorku.ca
   #phone: 888 888 88 88
   address:
     street: 4700 Keele St. Vari Hall 1052
