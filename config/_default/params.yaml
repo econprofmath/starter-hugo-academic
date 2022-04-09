@@ -21,7 +21,7 @@ marketing:
     description: 'An academic website for Robert J. McKeown.'
     twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-BWSC1LLR6R'
     baidu_tongji: ''
   verification:
     google: '<meta name="google-site-verification" content="R1ORS1uKPVqzacBewRUQm_7rLhwEOUM9JyNgWMhGJdc" />'
