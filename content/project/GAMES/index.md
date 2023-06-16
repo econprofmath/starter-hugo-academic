@@ -40,7 +40,7 @@ url_video: "" #https://youtu.be/9ek66_ijSFM
 slides: ""
 ---
 
-GAMES is an open education resource (OER) designed to prepare a diverse set of learners and students, some of whom may lack a strong background in math and stats, to succeed in university business, economics, and the social sciences. The content is divided into segments covering: precalculus, calculus, multivariate calculus, probabilities and statistics. Real world examples are demonstrated with Excel or Googlesheets. The modular design allows you to access the content you want.
+<p>GAMES is an open education resource (OER) designed to prepare a diverse set of learners and students, some of whom may lack a strong background in math and stats, to succeed in university business, economics, and the social sciences, The content covers precalculus, calculus, multivariate calculus, probabilities and statistics, and real world examples are often demonstrated using Excel or Googlesheets. The modular design allows you to access the content you want.<p><br>
 
 <font size="+2">Who is this course for?</font>
 
