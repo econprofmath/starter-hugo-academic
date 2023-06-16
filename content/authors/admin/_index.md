@@ -91,17 +91,17 @@ highlight_name: false
 
 <div id="teaching-philosophy">
     <h2>Teaching Philosophy</h2>
-    <p>His teaching philosophy is centered around active learning, and he firmly believes in the power of technology to enhance student success, particularly in large class settings. He is a strong advocate for creativity in student engagement and finds innovative ways to ensure a comprehensive understanding of his subject matter.</p>
+    <p>His teaching philosophy is centered around active learning in the classroom and leveraging technology to deliver an authentic learning experience, even in large classrooms. Technology has the power to enhance student success through frequent quizzes, interactive videos, and Ai powered learning software. He advocates for creativity in building student engagement and innovative ways to deliver subject matter.</p>
 </div>
 
 <div id="areas-of-focus">
     <h2>Areas of Focus</h2>
-    <p>Since joining York University, his primary focus has been on teaching first-year undergraduate courses including the Principles of Economics and Mathematics for Economics. These courses have also driven his scholarly pursuits, prompting him to research the efficacy of ALEKS, a math learning environment, in preparing students for economics majors.</p>
+    <p>Since joining York University, his primary focus has been on teaching first-year undergraduate courses including the principles of economics and mathematics for economics. These courses have also driven his scholarly pursuits, prompting him to research the efficacy of ALEKS, a math learning environment, in preparing students for economics majors.</p>
 </div>
 
 <div id="contributions">
     <h2>Contributions</h2>
-    <p>Robert McKeown is also the Academic Director of SNACK, the Student Numeracy Assistance Centre at York University, and collaborates on GAMES — A Gentle Approach to Math, Excel, and Stats. GAMES is an innovative 24-week open-education resource that prepares a diverse range of students for majors in economics, business, and social science.</p>
+    <p>Robert McKeown is also the Academic Director of SNACK, the Student Numeracy Assistance Centre at York University, and collaborates on GAMES — A Gentle Approach to Math, Excel, and Stats. GAMES is a cutting-edge 24-week open-education resource (OER) designed to equip a diverse range of students for studies in economics, business, and the social sciences.</p>
 </div><br>
 
 
