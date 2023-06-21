@@ -28,7 +28,7 @@ image:
 #  icon: twitter
 
 url_code: ""
-url_pdf: "#uploads/GAMES_Outlines.pdf"   
+url_pdf: "uploads/GAMES_Outlines.pdf"   
 url_slides: ""
 url_video: "https://youtu.be/9ek66_ijSFM"
 
