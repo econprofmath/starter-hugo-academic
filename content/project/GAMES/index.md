@@ -2,14 +2,14 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "GAMES: A Gentle Approach to Math, Excel, Stats"
-summary: ""
+summary: "GAMES is an open education resource (OER) designed to prepare a diverse set of learners and students, some of whom may lack a strong background in math and stats, to succeed in university business, economics, and the social sciences, The content covers precalculus, calculus, multivariate calculus, probabilities and statistics, and real world examples are often demonstrated using Excel or Googlesheets. The modular design allows you to access the content you want."
 authors: [Sumon Majumdar, Robert J. McKeown, and Catherine Pfaff]
 tags: []
 categories: []
 date: 2023-06-15T17:59:41-04:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "" #"https://yorkspace.library.yorku.ca/xmlui/handle/10315/39775"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
