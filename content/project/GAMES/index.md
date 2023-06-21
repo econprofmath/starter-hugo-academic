@@ -6,7 +6,7 @@ summary: "GAMES is an open education resource (OER) designed to prepare a divers
 authors: [Sumon Majumdar, Robert J. McKeown, and Catherine Pfaff]
 tags: []
 categories: []
-date: 2023-06-15T17:59:41-04:00
+date: 2023-06-20T17:59:41-04:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: "" #"https://yorkspace.library.yorku.ca/xmlui/handle/10315/39775"
@@ -39,17 +39,18 @@ url_video: "https://youtu.be/9ek66_ijSFM"
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+<font size="+2">Access GAMES resources on York Space:</font><br>
 
-<p>GAMES is an open education resource (OER) designed to prepare a diverse set of learners and students, some of whom may lack a strong background in math and stats, to succeed in university business, economics, and the social sciences, The content covers precalculus, calculus, multivariate calculus, probabilities and statistics, and real world examples are often demonstrated using Excel or Googlesheets. The modular design allows you to access the content you want.<p><br>
+<a href="https://yorkspace.library.yorku.ca/xmlui/handle/10315/39775">GAMES Course 1</a> <br>
+<a href="https://yorkspace.library.yorku.ca/xmlui/handle/10315/39776">GAMES Course 2</a><br>
+
+<p>GAMES is an open education resource (OER) designed to prepare a diverse set of learners and students, some of whom may lack a strong background in math and stats, to succeed in university business, economics, and the social sciences, The content covers precalculus, calculus, multivariate calculus, probabilities and statistics, and real world examples are often demonstrated using Excel or Googlesheets. The modular design allows you to access the content you want.<p>
+
+
 
 <font size="+2">Who is this course for?</font>
 
 GAMES was designed for a diverse set of learners in business, economics, and other social sciences including (a) those who may lack a strong enough math and statistics background from high school, (b) learners seeking to refresh their math and statistics knowledge in preparation for upper years in university and college, (c) learners wishing to re-skill or up-skill by switching majors or adding a minor and lacking the necessary math and statistics tools. Check out the PDF button above to read out course outlines.<br>
-
-<font size="+2">All GAMES resources are freely available on York Space:</font><br>
-
-<a href="https://yorkspace.library.yorku.ca/xmlui/handle/10315/39775">GAMES Course 1</a> <br>
-<a href="https://yorkspace.library.yorku.ca/xmlui/handle/10315/39776">GAMES Course 2</a><br>
 
 <font size="+2">Course Resources</font>
 
