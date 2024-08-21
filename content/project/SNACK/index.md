@@ -46,7 +46,7 @@ The Numeracy Centre is proudly led by its inaugural Academic Director, Robert Mc
 
 SNACK offers an array of resources tailored to your needs. Dive into our engaging skill-building workshops, peruse our catalogue of online resources, or benefit from our personalized one-on-one peer tutoring to unlock your full potential. From mastering basic functions and linear algebra to unraveling the intricacies of statistics, complex equations, calculus, and beyond – SNACK is here to facilitate your success. Numerical components of your course are no longer a hurdle but a stepping stone towards academic excellence. <br>
 
-<a href="www.yorku.ca/laps/snack">Click here</a> to visit our website where you can learn more about our peer tutors, staff, and supporting faculty.</a> 
+<a href="https://www.yorku.ca/laps/snack">Click here</a> to visit our website where you can learn more about our peer tutors, staff, and supporting faculty.</a> 
 
 <!--was founded in the Fall of 2021 by the Office of the Dean to support students enrolled in the Liberal Arts and Professional Studies (LA&amp;PS) develop their numeracy skills.  Here, students enrolled in courses that involve math, stats, computer programming, and Excel can find helpful resources, skill-building workshops, and one-on-one peer tutoring &mdash; from basic functions and linear algebra, to complex statistics, tricky equations, calculus, and more, SNACK is ready to help.  
 
