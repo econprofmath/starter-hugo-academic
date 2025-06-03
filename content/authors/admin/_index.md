@@ -6,7 +6,7 @@ title: Robert J. McKeown, PhD, CFA
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor, Teaching Stream
+role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -86,7 +86,7 @@ highlight_name: false
 
 
 <div id="">
-      <p>Robert McKeown is an Assistant Professor, Teaching Stream in the Department of Economics at York University. He brings a unique combination of academic and practical experience to his role, thanks to his dual qualifications as a Chartered Financial Analyst<sup>&reg;</sup> and holder of a PhD in Economics.</p>
+      <p>Robert McKeown is an Associate Professor in the Department of Economics at York University. He brings a unique combination of academic and practical experience to his role, thanks to his dual qualifications as a Chartered Financial Analyst<sup>&reg;</sup> and holder of a PhD in Economics.</p>
 </div>
 
 <div id="teaching-philosophy">
