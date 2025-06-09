@@ -108,5 +108,7 @@ highlight_name: false
 
 Since arriving at York University, Robert McKeown has focused his teaching on first-year undergraduate courses: principles of economics and mathematics for economics. In turn, these courses have motivated his scholarship on teaching and learning &mdash; Robert McKeown has been studying how ALEKS, a math learning environment with adaptive questions, increases student preparedness for majoring in economics. He is Academic Director of SNACK, the Student Numeracy Assistance Centre at York University and a collaborator on GAMES &mdash; A Gentle Approach to Math, Excel, and Stats. GAMES is a 24-week open-education resource designed for a diverse set of learners in preparation for becoming majors in economics, business, and the social science.-->
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/RobertJMcKeown_CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}. 
+
+{{< icon name="download" pack="fas" >}} <a href="{{< relref "uploads/RobertJMcKeown_CV.pdf" >}}" target="_blank" rel="noopener">Download my Curriculum Vitae</a>.
+
 
