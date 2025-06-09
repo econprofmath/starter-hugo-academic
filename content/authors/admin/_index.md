@@ -21,7 +21,6 @@ interests:
 - Economics Education
 - Finance
 - Macroeconomics
-- Principles of Economics
 
 # Education to show in About widget
 education:
