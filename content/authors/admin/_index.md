@@ -19,8 +19,8 @@ bio: Academic Director, Student Numeracy Assistance Centre
 # Interests to show in About widget
 interests:
 - Economics Education
-- Finance
-- Macroeconomics
+- Finance and Macroeconomics
+- Principles of Economics
 
 # Education to show in About widget
 education:
@@ -85,7 +85,7 @@ highlight_name: false
 
 
 <div id="">
-  <p><strong>Robert J. McKeown, PhD, CFA</strong>, is an Associate Professor in the Department of Economics at York University. He specializes in economics, finance, and quantitative methods, combining academic expertise with the applied perspective of a Chartered Financial Analyst<sup>®</sup>. His teaching and leadership are recognized for integrating active learning, technology-enhanced instruction, and real-world application to help students succeed in demanding quantitative courses.</p>
+  <p><strong>Robert J. McKeown, PhD, CFA</strong>, is an Associate Professor in the Department of Economics at York University. He specializes in economics, finance, and quantitative methods, combining academic expertise with the applied perspective of a Chartered Financial Analyst.<sup>®</sup> His teaching and leadership are recognized for integrating active learning, technology-enhanced instruction, and real-world application to help students succeed in demanding quantitative courses.</p>
 </div>
 
 
@@ -101,7 +101,7 @@ highlight_name: false
 
 <div id="contributions">
     <h2>Contributions</h2>
-    <p>Robert McKeown was also the inaugural Academic Director of SNACK (2021-25), the Student Numeracy Assistance Centre at York University, and collaborates on GAMES — A Gentle Approach to Math, Excel, and Stats. GAMES is a cutting-edge 24-week open-education resource (OER) designed to equip a diverse range of students for studies in economics, business, and the social sciences.</p>
+    <p>Robert McKeown was also the inaugural Academic Director of SNACK (2021-25), the Student Numeracy Assistance Centre at York University, and collaborates on GAMES: A Gentle Approach to Math, Excel, and Stats. GAMES is a cutting-edge 24-week open-education resource (OER) designed to equip a diverse range of students for studies in economics, business, and the social sciences.</p>
 </div><br>
 
 
