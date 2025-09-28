@@ -90,7 +90,7 @@ highlight_name: false
 
 <div id="teaching-philosophy">
     <h2>Teaching Philosophy</h2>
-    <p>His teaching philosophy is centered around active learning in the classroom and leveraging technology to deliver an authentic learning experience, even in large classrooms. Technology has the power to enhance student success through frequent quizzes, interactive videos, and Ai powered learning software. He advocates for creativity in building student engagement and innovative ways to deliver subject matter.</p>
+    <p>His teaching philosophy is centered around active learning in the classroom and leveraging technology to deliver an authentic learning experience, even in large classrooms. Technology has the power to enhance student success through frequent quizzes, interactive videos, and {AI} powered learning software. He advocates for creativity in building student engagement and innovative ways to deliver subject matter.</p>
 </div>
 
 <div id="areas-of-focus">
