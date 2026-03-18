@@ -28,9 +28,9 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "uploads/ALEKS_McKeown.pdf"
-url_slides:  uploads/ALEKS_McKeown_slides.pdf
-url_video: https://mcgrawhillcanada.hubs.vidyard.com/watch/eyAUrsg6fT53R5p46c8WUg
+url_pdf: ""
+url_slides:  "uploads/ALEKS_McKeown_slides.pdf"
+url_video: "https://mcgrawhillcanada.hubs.vidyard.com/watch/eyAUrsg6fT53R5p46c8WUg"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
