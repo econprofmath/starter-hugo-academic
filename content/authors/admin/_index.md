@@ -83,26 +83,13 @@ highlight_name: false
 
 ---
 
+<div id="about">
+  <p><strong>Robert J. McKeown, PhD, CFA</strong> is an Associate Professor (Teaching Stream) in the Department of Economics at York University. His work focuses on economics education, quantitative readiness, and technology-enhanced learning in large introductory courses.</p>
 
-<div id="">
-  <p><strong>Robert J. McKeown, PhD, CFA</strong>, is an Associate Professor in the Department of Economics at York University. He specializes in economics, finance, and quantitative methods, combining academic expertise with the applied perspective of a Chartered Financial Analyst.<sup>®</sup> His teaching and leadership are recognized for integrating active learning, technology-enhanced instruction, and real-world application to help students succeed in demanding quantitative courses.</p>
+  <p>He studies how active learning, adaptive platforms, and generative AI can support student success in economics, with recent work on GenAI-supported tutoring, ALEKS, and peer-assisted learning. His teaching has been recognized with York University’s Dean’s Award for Excellence in Teaching.</p>
+
+  <p>McKeown is the former Academic Director of the Student Numeracy Assistance Centre at Keele (SNACK) and a contributor to <em>GAMES: A Gentle Approach to Math, Excel, and Stats</em>, an open educational resource for students preparing for economics, business, and related fields. His recent academic engagement also includes a visit to the Changchun University of Finance and Economics.</p>
 </div>
-
-
-<div id="teaching-philosophy">
-    <h2>Teaching Philosophy</h2>
-    <p>His teaching philosophy is centered around active learning in the classroom and leveraging technology to deliver an authentic learning experience, even in large classrooms. Technology has the power to enhance student success through frequent feedback, engaging interactive videos, adaptive learning software, and Generative AI. He advocates for creativity in building student engagement and innovative ways to deliver subject matter.</p>
-</div>
-
-<div id="areas-of-focus">
-    <h2>Areas of Focus</h2>
-    <p>Since joining York University, his primary focus has been on teaching first-year undergraduate courses including the principles of economics and mathematics for economics. These courses have also driven his scholarly pursuits, prompting him to research the efficacy of ALEKS, a math learning environment, in preparing students for undergraduate economics.</p>
-</div>
-
-<div id="contributions">
-    <h2>Contributions</h2>
-    <p>Robert McKeown was also the inaugural Academic Director of SNACK (2021-25), the Student Numeracy Assistance Centre at York University, and collaborates on GAMES: A Gentle Approach to Math, Excel, and Stats. GAMES is a cutting-edge 24-week open-education resource (OER) designed to equip a diverse range of students for studies in economics, business, and the social sciences.</p>
-</div><br>
 
 
 <!--Robert McKeown has the position of Assistant Professor, Teaching Stream in the Department of Economics at York University. He is a holder of both a Chartered Financial Analyst<sup>&reg;</sup> designation and a PhD in economics which reflects his interest in both theory and practical application. This combination helps him empathize with students whether their career aspirations are private, public, or academic. Robert McKeown strongly believes that active learning leads to better student outcomes and is committed to adopting education technology that increases student success. Technology is especially important in large classes where student engagement requires some creativity.
