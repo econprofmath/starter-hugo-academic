@@ -10,23 +10,19 @@ organizations:
 bio: "Economics educator specializing in quantitative readiness, active learning, and AI-enhanced teaching."
 
 interests:
-  - Economics education
-  - Quantitative pedagogy
+  - Quantitative-focused pedagogy
   - Generative AI in teaching
-  - Adaptive learning
+  - Adaptive learning systems
   - Financial economics
+
 
 education:
   courses:
-    - course: PhD in Economics
+    - course: PhD Economics
       institution: Queen's University
       year: 2017
-    - course: MA in Economics
-      institution: Ryerson University
-      year: 2009
-    - course: B.Comm
-      institution: Ryerson University
-      year: 2008
+
+
 
 social:
   - icon: envelope
