@@ -1,44 +1,47 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+title: "Improving Undergraduate Mathematics with ALEKS"
+summary: "This project examines the use of ALEKS as an early-semester adaptive learning system in a first-year mathematics for economics course. The intervention was designed to strengthen precalculus readiness and support later success in calculus-based course work."
+authors:
+  - Robert J. McKeown
+tags:
+  - ALEKS
+  - Adaptive learning
+  - Economics education
+  - Mathematics education
+  - Learning technology
+categories:
+  - Teaching
+  - Scholarship of Teaching and Learning
+date: 2022-04-01
 
-title: "Improving Undergraduate Math with ALEKS"
-summary: "ALEKS, a math learning environment with adaptive questions powered by AI and machine learning, is embedded in the first four weeks of a first-year math for economics course to improve fundamental math skills. Student performance on ALEKS is compared with performance during the remainder of the course. We found that students self-reported that their time on ALEKS increased their self-confidence, understanding, and the likelihood that they would continue in a math-based discipline."
-authors: []
-tags: []
-categories: []
-date: 2022-04-01T16:12:53-04:00
-
-# Optional external URL for project (replaces project detail page).
 external_link: ""
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: Smart
   preview_only: false
-
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
 
 url_code: ""
 url_pdf: ""
-url_slides:  "uploads/ALEKS_McKeown_slides.pdf"
+url_slides: /uploads/ALEKS_McKeown_slides.pdf
 url_video: "https://mcgrawhillcanada.hubs.vidyard.com/watch/eyAUrsg6fT53R5p46c8WUg"
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
 ---
-ALEKS, a math learning environment with adaptive questions powered by AI and machine learning, is embedded in the first four weeks of a first-year math for economics course to improve fundamental math skills. Student performance on ALEKS is compared with performance during the remainder of the course. We found that students self-reported that their time on ALEKS increased their self-confidence, understanding, and the likelihood that they would continue in a math-based discipline.
+## Overview
 
-First-year students often struggle when they lack a strong foundation in precalculus maths. Instructors have frequently observed students unable to divide fractions, manipulate logarithms, or answer simple word problems. Without these skills, students are effectively blocked from many courses in economics, business, and math. To develop a strong foundation for future learning, we integrated McGraw-Hill's ALEKS, an online learning environment, into the first four weeks of a first-year mathematics for economics course. ALEKS uses an AI tutor to diagnose the knowledge of each student in more than 300 pre-calculus topics. The AI then creates individualized learning paths that guides students toward mastery. Our study considers students enrolled in a first-year mathematics for economics course at a research university in Ontario, Canada. During the first four weeks of class, students completed quizzes, formative assessments, and practice problems on ALEKS. After these four weeks, they wrote a summative assessment on ALEKS. Students self-reported that their time on ALEKS increased their self-confidence, understanding, and the likelihood that they would continue in a math-based discipline. We then compared student activity on ALEKS with their performance in the remainder of the course which focused on calculus. We found a positive and statistically significant correlation between activity on ALEKS and performance in calculus for economics. Our intervention is scalable, cost-effective, and can be implemented in face-to-face, online, or blended learning environments. Our study contributes to understanding how technology can improve math education.
+Many first-year students enter mathematics for economics with uneven preparation in precalculus. Gaps in algebraic manipulation, logarithms, fractions, and quantitative reasoning can make it difficult for them to engage successfully with early course material and later calculus-based applications.
+
+This project examines the use of ALEKS as a course-embedded adaptive learning system during the first four weeks of a first-year mathematics for economics course at a research university in Ontario, Canada. ALEKS was used to diagnose prerequisite knowledge, assign individualized practice, and support mastery of core precalculus topics before students moved further into the course.
+
+## Approach
+
+During the early weeks of the semester, students completed formative assessments, practice activities, and quizzes in ALEKS, followed by a summative ALEKS assessment. The project then compared student engagement and performance in ALEKS with subsequent performance in the calculus-based portions of the course.
+
+## Key findings
+
+Students reported that time spent in ALEKS improved their confidence, understanding, and willingness to continue in mathematically intensive fields. Higher engagement in ALEKS was also positively associated with stronger performance later in the course.
+
+## Significance
+
+The project suggests that an adaptive, early-semester intervention can provide scalable support for students with heterogeneous mathematical backgrounds. It also highlights how course-embedded learning technology can strengthen readiness for quantitative work in economics and related disciplines.
