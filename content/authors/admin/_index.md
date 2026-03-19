@@ -45,8 +45,4 @@ He studies how active learning, adaptive platforms, and generative AI can suppor
 
 He is the former Academic Director of the Student Numeracy Assistance Centre at Keele (SNACK) and a contributor to *GAMES: A Gentle Approach to Math, Excel, and Stats*, an open educational resource for students preparing for economics, business, and related fields. His recent academic engagement also includes a visit to the Changchun University of Finance and Economics.
 
-[Download CV](/uploads/RobertJMcKeown_CV.pdf)
-
-<!--
-{{< icon name="download" pack="fas" >}} <a href="/uploads/RobertJMcKeown_CV.pdf" target="_blank" rel="noopener">View my Curriculum Vitae</a> 
--->
+{{< icon name="download" pack="fas" >}} <a href="/uploads/RobertJMcKeown_CV.pdf" target="_blank" rel="noopener">View my Curriculum Vitae</a>
